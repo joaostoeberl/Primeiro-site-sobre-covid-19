@@ -1,29 +1,179 @@
-.thor {
-    background-color: black;
-    color: aqua;
-    text-align: center;
-    font-size: 60px;
-    font-weight: 300;
-}
-
 .joao {
-    color: aliceblue;
+    color: red;
+    font-size: 35px;
     text-align: center;
 }
-
-.lucas {
-    color: darkgreen;
+.b2 {
+    font-size: 20px;
     text-align: left;
+    position: initial;
+    left: 15px;
+    /* posiciona a 90px para a esquerda */
+    top: 500px;
+    /* posiciona a 70px para baixo */
+}
+.b3 {
+    font-size: 15px;
+    text-align: center;
+    
+}
+.b {
+    font-size: 20px;
+    text-align: left;
+    position: absolute;
+    left: 15px;
+    /* posiciona a 90px para a esquerda */
+    top: 450px;
+    /* posiciona a 70px para baixo */
 }
 
-.indio {
+
+.o1 {
+    font-size: 20px;
+    text-align: right;
+    position: absolute;
+    left: 1000px;
+    /* posiciona a 90px para a esquerda */
+    top: 485px;
+    /* posiciona a 70px para baixo */
+}
+
+.b1 {
+    font-size: 20px;
+    text-align: left;
+    position: absolute;
+    left: 15px;
+    /* posiciona a 90px para a esquerda */
+    top: 485px;
+    /* posiciona a 70px para baixo */
+}
+
+.a {
+    font-size: 35px;
+    text-align: center;
+    color: red;
+}
+
+.o {
+    font-size: 20px;
+    text-align: right;
+    position: absolute;
+    left: 1000px;
+    /* posiciona a 90px para a esquerda */
+    top: 450px;
+    /* posiciona a 70px para baixo */
+}
+.f2 {
+    font-size: 10px;
+    text-align: left;
+    position:initial;
+    left: 505px;
+    /* posiciona a 90px para a esquerda */
+    top: 50px;
+    /* posiciona a 70px para baixo */
+}
+.f {
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    left: 505px;
+    /* posiciona a 90px para a esquerda */
+    top: 450px;
+    /* posiciona a 70px para baixo */
+}
+
+.f1 {
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    left: 505px;
+    /* posiciona a 90px para a esquerda */
+    top: 485px;
+    /* posiciona a 70px para baixo */
+}
+
+.link {
+    text-align: center;
+    font-size: 50px;
+}
+
+.verde {
+    color: chocolate;
+}
+
+.fundo {
+    background-color: grey;
+
+}
+
+.image {
+    position: absolute;
+    left: 505px;
+    /* posiciona a 90px para a esquerda */
+    top: 200px;
+    /* posiciona a 70px para baixo */
+
+}
+
+.image1 {
+    position: absolute;
+    left: 15px;
+    /* posiciona a 90px para a esquerda */
+    top: 600px;
+    /* posiciona a 70px para baixo */
+}
+
+.image2 {
+    position: absolute;
+    left: 990px;
+    /* posiciona a 90px para a esquerda */
+    top: 490px;
+    /* posiciona a 70px para baixo */
+}
+
+.image3 {
+    position: absolute;
+    left: 12px;
+    /* posiciona a 90px para a esquerda */
+    top: 200px;
+    /* posiciona a 70px para baixo */
+}
+
+.image4 {
+    position: absolute;
+    left: 1001px;
+    /* posiciona a 90px para a esquerda */
+    top: 200px;
+    /* posiciona a 70px para baixo */
+}
+
+.background {
+    background: rgb(174, 189, 99);
+    background: radial-gradient(circle, rgba(174, 189, 99, 0.6895133053221288) 0%, rgba(255, 106, 0, 0.31416316526610644) 49%, rgba(0, 95, 255, 0.3337710084033614) 70%);
+}
+
+.branco {
+    color: white;
+}
+
+.tito {
     text-align: center;
     font-size: 40px;
+    background-color: #DCCED0;
+    color: #D2691E;
+
 }
-.conteudo{
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-top: -10px;
-    margin-bottom: -10px;
-    background-color: burlywood;
+
+.boxmodel {
+    width: 1324px;
+    background-color: #AACAFF;
+    position: initial;
+    padding-left: 32px;
+    padding-top: 280px;
+    padding-bottom: 60px;
+    padding-right: 60px;
+    border:4px solid purple 
+    
+  
+
 }
